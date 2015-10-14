@@ -2,7 +2,7 @@
 The markdown text format is easy to use and makes it almost impossible for users to create crappy HTML output. WYSIWYM > WYSIWYG.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_text_format_markdown
+Github: https://github.com/drupalglacier/glacier_text_format_markdown
 
 ### Author
 Markus Oberlehner  
